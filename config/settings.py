@@ -38,8 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # 2. taraf uygulamalar
-    'blog',
     'account',
+    'blog',
+    
     # 3. taraf uygulamalar
     'ckeditor',
 ]
